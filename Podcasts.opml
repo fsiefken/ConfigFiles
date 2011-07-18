@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="1.0">
+<head>
+	<title>iTunes Subscribed Feeds</title>
+	<dateCreated>Mon, 18 Jul 2011 12:43:02 GMT</dateCreated>
+	<dateModified>Mon, 18 Jul 2011 12:43:02 GMT</dateModified>
+</head>
+<body>
+	<outline text="The Moth Podcast" type="rss" xmlUrl="http://feeds.themoth.org/themothpodcast" />
+	<outline text="APM: The Story" type="rss" xmlUrl="http://www.thestory.org/archive/podcast.xml" />
+	<outline text="Philosopher's Zone" type="rss" xmlUrl="http://www.abc.net.au/rn/podcast/feeds/pze.xml" />
+	<outline text="This American Life" type="rss" xmlUrl="http://feeds.thisamericanlife.org/talpodcast" />
+	<outline text="NPR's On the Media" type="rss" xmlUrl="http://feeds.wnyc.org/onthemedia" />
+	<outline text="EconTalk" type="rss" xmlUrl="http://www.econlib.org/library/EconTalk.xml" />
+	<outline text="FLOSS Weekly" type="rss" xmlUrl="http://leoville.tv/podcasts/floss.xml" />
+	<outline text="The Economist" type="rss" xmlUrl="http://www.economist.com/media/rss/economist.xml" />
+	<outline text="37signals Podcast" type="rss" xmlUrl="http://feeds.feedburner.com/37signals_podcast" />
+	<outline text="Above &#38; Beyond: Trance Around The World" type="rss" xmlUrl="http://www.tatw.co.uk/podcast.xml" />
+	<outline text="Board Games with Scott" type="rss" xmlUrl="http://feeds.feedburner.com/boardgameswithscott" />
+	<outline text="Matt Darey - Nocturnal Podcast" type="rss" xmlUrl="http://www.nocturnalradio.org/podcast/nocturnal.xml" />
+	<outline text="Catholic:Under The Hood" type="rss" xmlUrl="http://feeds.feedburner.com/CatholicunderTheHood" htmlUrl="http://catholicunderthehood.com" />
+	<outline text="Prayer from the Taizé Community" type="rss" xmlUrl="http://www.taize.fr/podcast" htmlUrl="http://www.taize.fr" />
+	<outline text="Taizé | Lichterfeier bei domradio.de - Jeden Samstag live und als podcast" type="rss" xmlUrl="http://www.domradio.de/podcast/taize-lichterfeier-gebet.xml" htmlUrl="http://www.domradio.de/taize/" />
+	<outline text="Buitenhof" type="rss" xmlUrl="http://www.vpro.nl/buitenhof_podcast" htmlUrl="http://weblogs.vpro.nl/afspelen/category/radio/buitenhof-radio/" />
+	<outline text="SQPN: Catholic Discovery" type="rss" xmlUrl="http://feeds.feedburner.com/catholicdiscovery" htmlUrl="http://catholicdiscovery.sqpn.com" />
+	<outline text="SQPN: Secrets of Babylon 5" type="rss" xmlUrl="http://feeds.feedburner.com/secretsofbabylon5" htmlUrl="http://babylon5.sqpn.com" />
+	<outline text="The Ruby Show" type="rss" xmlUrl="http://feeds.feedburner.com/railsenvy-podcast" htmlUrl="http://rubyshow.com" />
+	<outline text="Teach Me To Code Podcast" type="rss" xmlUrl="http://feeds.feedburner.com/RailsCoach" htmlUrl="http://teachmetocode.com" />
+	<outline text="SD Ruby Podcast" type="rss" xmlUrl="http://feeds.feedburner.com/sdrbpodcast" htmlUrl="http://sdruby.org" />
+	<outline text="Ruby5" type="rss" xmlUrl="http://feeds.feedburner.com/Ruby5" htmlUrl="http://ruby5.envylabs.com/" />
+	<outline text="Pragmatic Podcasts" type="rss" xmlUrl="http://pragprog.com/podcasts/feed.rss" htmlUrl="http://pragprog.com/podcasts" />
+	<outline text="Vimcasts" type="rss" xmlUrl="http://vimcasts.org/feeds/itunes/" htmlUrl="http://vimcasts.org/episodes/" />
+</body>
+</opml>
